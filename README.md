@@ -1,4 +1,9 @@
 # waiiz_hud
-[Author] By Waiiz
+[Author] ByWaiiz
 
 [Picture] https://prnt.sc/qrd1we
+
+
+      
+        
+
